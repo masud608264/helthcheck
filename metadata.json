@@ -1,0 +1,6 @@
+{
+  "name": "সুস্থতা ট্র্যাকার",
+  "description": "Daily nutrition, water, and exercise tracker with full local language (Bangla & English) support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
